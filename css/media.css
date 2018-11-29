@@ -1,0 +1,158 @@
+@media (max-width: 325px) { 
+	.logo-img {
+		width: 180px;
+	}
+	.random-text5 hr {
+		width: 220px;
+	}
+	
+    .service-content p {
+    	margin: 10px;
+    	font-size: 20px;
+
+    }
+    .images img {
+		/*memorable*/
+	margin-left: 8px; 
+	}
+    .date {
+    width: 79px;
+    height: 90px;
+    border-radius: 44%;
+    }
+    .contact {
+	background-image: none;
+	;
+	}
+    .contact-content {
+	margin-top: 30px;
+	}
+	.cus-footer li a {
+    font-size: 14px;
+	}
+ }
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (min-width: 374px) and (max-width: 575.98px) { 
+	.logo-img {
+		width: 180px;
+	}
+	.random-text5 hr {
+		width: 220px;
+	}
+	
+    .service-content p {
+    	margin: 10px;
+    	font-size: 20px;
+
+    }
+    .images img {
+		/*memorable*/
+	margin-left: 50px; 
+	}
+    .date {
+    width: 79px;
+    height: 90px;
+    border-radius: 44%;
+    }
+    .contact {
+	background-image: none;
+	;
+	}
+    .contact-content {
+	margin-top: 30px;
+	}
+	.cus-footer li a {
+    font-size: 14px;
+	}
+ }
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	.service-content p {
+    	margin: 10px;
+    	font-size: 20px;
+
+    }
+    .images img {
+		/*memorable*/
+	margin-left: 110px; 
+	}
+
+	.teacher-details img {
+    margin-top: 15px;
+	}
+	.date {
+    width: 79px;
+    height: 90px;
+    border-radius: 44%;
+    }
+	.contact {
+	background-image: none;
+	
+	}
+	.contact-content {
+	margin-top: 50px;
+	}
+	.cus-footer li a {
+    font-size: 16px;
+	}
+	
+ }
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+	.date-text h2, .date-text p  {
+    margin-left: 18px;
+	}
+	.date-text h2 {
+		font-size: 22px;
+	}
+	.teacher-details img {
+    margin-top: 15px;
+	}
+	.contact {
+	background-image: none;
+	
+	}
+	.contact-content {
+	margin-top: 50px;
+	}
+
+	.cus-footer li a {
+    font-size: 14px;
+	}
+ }
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+	.images img {
+		/*memorable*/
+	margin-left: 60px; 
+	}
+	.teacher-details img {
+    margin-top: 15px;
+	}
+	.news-content h2, .news-content h6 {
+		padding-left: 27px;
+		font-size: 14px;
+	}
+	.news-content hr {
+		margin-left: 27px;
+	}
+	.news-content p {
+		margin-left: 27px;
+		font-size: 12px;
+	}
+	.insta-img img {
+	border-radius: 20px;
+	width: 65px;
+	}
+	.cus-footer li a {
+    font-size: 16px;
+	}
+ }
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+	
+ }
