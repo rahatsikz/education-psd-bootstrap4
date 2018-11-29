@@ -20,6 +20,12 @@
     height: 90px;
     border-radius: 44%;
     }
+    .date-text h2, .date-text p {
+	margin-left: 5px;
+    }
+    .date-text h2 {
+    	font-size: 20px;
+     }
     .contact {
 	background-image: none;
 	;
